@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+ssh_run
 
 # Go test binaries
 *.test
